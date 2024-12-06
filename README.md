@@ -1,5 +1,9 @@
 # typescript-practices
 
+## Roadmap
+
+![alt text](typescript_page-0001.jpg)
+
 ## Installing TypeScript
 
 npm install -g typescript
